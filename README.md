@@ -68,7 +68,7 @@ Curated list of awesome JS resources
 
 - [BrendanEich](https://twitter.com/BrendanEich)
 - [Kent C. Dodds](https://twitter.com/kentcdodds)
-- [Addy Osman](https://twitter.com/addyosmani)
+- [Addy Osmani](https://twitter.com/addyosmani)
 - [Paul Irish](https://twitter.com/paul_irish)
 - [Douglas Crockford](https://github.com/douglascrockford)
 - [Ben Awad](https://twitter.com/benawad/)
