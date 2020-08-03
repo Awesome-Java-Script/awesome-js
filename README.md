@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" width="400" height="200">
+
 # awesome-js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 Curated list of awesome JS resources 
 
