@@ -1,5 +1,5 @@
-# awesome-js
-Curated list of awesome JS resources
+# awesome-js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+Curated list of awesome JS resources 
 
 <img src="https://github.com/Awesome-Java-Script/awesome-js/blob/master/logo.png" width="400" height="400">
 
