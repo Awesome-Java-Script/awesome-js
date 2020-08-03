@@ -1,3 +1,4 @@
+<img src="https://github.com/Awesome-Java-Script/awesome-js/blob/master/glasses.png" width="400" height="250">
 
 # awesome-js 
 Curated list of awesome JS resources 
