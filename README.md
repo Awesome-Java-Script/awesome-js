@@ -31,6 +31,8 @@ Curated list of awesome JS resources
 - [ES6 and Beyond Workshop Part 1 at PayPal (Jan 2017)](https://www.youtube.com/watch?v=t3R3R7UyN2Y)
 - [ES6 and Beyond Workshop Part 2 at PayPal (March 2017)](https://www.youtube.com/watch?v=eOKQDh50ECU)
 - [Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://www.youtube.com/watch?v=lil4YCCXRYc)
+- [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
+- [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 
 # Courses
 
