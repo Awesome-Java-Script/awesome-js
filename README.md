@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" width="400" height="200">
 
-# awesome-js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-js 
 Curated list of awesome JS resources 
 
 <img src="https://github.com/Awesome-Java-Script/awesome-js/blob/master/logo.png" width="400" height="400">
-
 
 
 # Books
@@ -37,3 +35,18 @@ Curated list of awesome JS resources
 - [JSConf](https://www.youtube.com/c/JSConfEU/videos)
 - [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers/videos)
 - [web.dev](https://web.dev/learn/)
+
+# People
+- [Kent C. Dodds](https://twitter.com/kentcdodds)
+- [Addy Osman](https://twitter.com/addyosmani)
+- [Paul Irish](https://twitter.com/paul_irish)
+- [Douglas Crockford](https://github.com/douglascrockford)
+- [Ben Awad](https://twitter.com/benawad/)
+- [Eric Elliott](https://twitter.com/_ericelliott)
+- [Dan Abramov](https://twitter.com/dan_abramov)
+
+## Contributing
+Feel free to raise a PR, adhering to the guidelines.
+
+## Licence
+Creative Commons Zero v1.0 Universal
