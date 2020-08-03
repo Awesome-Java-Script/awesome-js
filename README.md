@@ -33,12 +33,16 @@ Curated list of awesome JS resources
 - [Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://www.youtube.com/watch?v=lil4YCCXRYc)
 - [JavaScript: Understanding the Weird Parts - The First 3.5 Hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts)
 - [Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
+- [Rediscovering JavaScript by Venkat Subramaniam](https://www.youtube.com/watch?v=dxzBZpzzzo8)
+- [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://www.youtube.com/watch?v=p-iiEDtpy6I)
+- [Recursion, Iteration, and JavaScript: A Love Story - Anjana Vakil | JSHeroes 2018](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
 
 # Courses
 
 - [JavaScript Fundamentals Workshop](https://kentcdodds.com/workshops/javascript-fundamentals)
 - [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [The Complete JavaScript Course 2020](https://www.udemy.com/course/the-complete-javascript-course/)
+- [JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
 # Websites
 
@@ -63,6 +67,11 @@ Curated list of awesome JS resources
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Node Weekly](https://nodeweekly.com/)
 
+# Useful Github Links
+
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/javascript-questions.md)
 
 # People
 
