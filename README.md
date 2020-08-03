@@ -1,11 +1,12 @@
-<p align="center"><img src="https://github.com/Awesome-Java-Script/awesome-js/blob/master/glasses.png" width="400" height="250"></p>
-<hr>
+
 
 # awesome-js 
 Curated list of awesome JS resources 
-
+<p align="center"><img src="https://github.com/Awesome-Java-Script/awesome-js/blob/master/glasses.png" width="400" height="250">
+<br/>
 <img src="https://github.com/Awesome-Java-Script/awesome-js/blob/master/logo.png" width="400" height="400">
-
+</p>
+<hr>
 
 # Books
 
@@ -61,7 +62,7 @@ Curated list of awesome JS resources
 
 ## Contributing
 
-Feel free to raise a PR, adhering to the guidelines.
+Feel free to raise a PR, adhering to the <a href="https://github.com/Awesome-Java-Script/awesome-js/blob/master/contributing.md">guidelines</a>.
 
 ## Licence
 
