@@ -1,7 +1,8 @@
 # awesome-js
 Curated list of awesome JS resources
 
--![](https://github.com/Awesome-Java-Script/awesome-js/blob/master/logo.png)
+<img src="https://github.com/Awesome-Java-Script/awesome-js/blob/master/logo.png" width="400" height="400">
+
 
 
 # Books
