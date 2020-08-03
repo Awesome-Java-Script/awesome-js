@@ -17,6 +17,9 @@ Curated list of awesome JS resources
 - [You Don't Know JS: ES6 & Beyond - Kyle Simpson](https://www.oreilly.com/library/view/you-dont-know/9781491905241/)
 - [Exploring ES6 - Axel Rauschmayer](https://exploringjs.com/es6/)
 - [High Performance JavaScript - Nicholas C. Zakas](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/)
+- [JavaScript for Kids - Nick Morgan](https://www.oreilly.com/library/view/javascript-for-kids/9781457189838/)
+- [Eloquent JavaScript - Marijn Haverbeke](https://www.oreilly.com/library/view/eloquent-javascript/9781593272821/)
+- [Effective JavaScript - David Herman](http://effectivejs.com/)
 
 # Video Tutorials
 
@@ -48,6 +51,16 @@ Curated list of awesome JS resources
 - [JSConf](https://www.youtube.com/c/JSConfEU/videos)
 - [Google Chrome Developers](https://www.youtube.com/c/GoogleChromeDevelopers/videos)
 - [web.dev](https://web.dev/learn/)
+- [JavaScript Daily](https://twitter.com/JavaScriptDaily)
+
+# Publications/Magazines
+
+- [JavaScript on Medium](https://medium.com/tag/javascript)
+- [JavaScript on Smashing Magazine](https://www.smashingmagazine.com/category/javascript)
+- [JavaScript on Dev.to](https://dev.to/t/javascript)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [Node Weekly](https://nodeweekly.com/)
+
 
 # People
 
@@ -59,6 +72,10 @@ Curated list of awesome JS resources
 - [Ben Awad](https://twitter.com/benawad/)
 - [Eric Elliott](https://twitter.com/_ericelliott)
 - [Dan Abramov](https://twitter.com/dan_abramov)
+- [Marijn Haverbeke](https://twitter.com/MarijnJH)
+- [Kyle Simpson](https://github.com/getify)
+- [Wes Bos](https://twitter.com/wesbos)
+- [Dan Wahlin](https://github.com/DanWahlin)
 
 ## Contributing
 
