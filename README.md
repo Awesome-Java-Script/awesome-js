@@ -36,6 +36,8 @@ Curated list of awesome JS resources
 - [Rediscovering JavaScript by Venkat Subramaniam](https://www.youtube.com/watch?v=dxzBZpzzzo8)
 - [Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 - [Recursion, Iteration, and JavaScript: A Love Story - Anjana Vakil | JSHeroes 2018](https://www.youtube.com/watch?v=FmiQr4nfoPQ)
+- [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Object-oriented Programming in JavaScript: Made Super Simple | Mosh](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 
 # Courses
 
@@ -43,6 +45,8 @@ Curated list of awesome JS resources
 - [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [The Complete JavaScript Course 2020](https://www.udemy.com/course/the-complete-javascript-course/)
 - [JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+- [Getting Started With Javascript | Javascript Tutorial For Beginners](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
+- [JavaScript Best Practices](https://www.pluralsight.com/courses/javascript-best-practices)
 
 # Websites
 
