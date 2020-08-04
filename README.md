@@ -48,6 +48,12 @@ Curated list of awesome JS resources
 - [Getting Started With Javascript | Javascript Tutorial For Beginners](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
 - [JavaScript Best Practices](https://www.pluralsight.com/courses/javascript-best-practices)
 
+# Useful Blogs/Articles
+
+- [Prototypes and Inheritance in JavaScript](https://docs.microsoft.com/en-us/previous-versions/msdn10/ff852808(v=msdn.10))
+- [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
+- [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
+
 # Websites
 
 - [Google Web Developers](https://developers.google.com/web)
