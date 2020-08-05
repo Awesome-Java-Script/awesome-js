@@ -47,6 +47,7 @@ Curated list of awesome JS resources
 - [JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 - [Getting Started With Javascript | Javascript Tutorial For Beginners](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
 - [JavaScript Best Practices](https://www.pluralsight.com/courses/javascript-best-practices)
+- [JavaScript Tutorials and Courses](https://hackr.io/tutorials/learn-javascript)
 
 # Useful Blogs/Articles
 
@@ -61,6 +62,7 @@ Curated list of awesome JS resources
 - [Node JS](https://nodejs.org/en/docs/es6/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [JavaScript.info](https://javascript.info/)
+- [Superhero.js](http://superherojs.com/)
 
 # Dev Channels
 
@@ -82,6 +84,8 @@ Curated list of awesome JS resources
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/javascript-questions.md)
+- [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 # People
 
