@@ -54,6 +54,7 @@ Curated list of awesome JS resources
 - [Prototypes and Inheritance in JavaScript](https://docs.microsoft.com/en-us/previous-versions/msdn10/ff852808(v=msdn.10))
 - [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
 - [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
+- [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 
 # Websites
 
