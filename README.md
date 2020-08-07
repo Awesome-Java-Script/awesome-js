@@ -108,5 +108,5 @@ Curated list of awesome JS resources
 Feel free to raise a PR, adhering to the <a href="https://github.com/Awesome-Java-Script/awesome-js/blob/master/contributing.md">guidelines</a>.
 
 ## Licence
-
-Creative Commons Zero v1.0 Universal
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+<p>Creative Commons Zero v1.0 Universal</p>
